@@ -20,3 +20,10 @@
 19	936	7318989771807317	CMakeFiles/Project_1.dir/myList/myList.cpp.obj	5af6894e549fb823
 4	939	7318989771952532	CMakeFiles/Project_1.dir/functions.cpp.obj	239f747e469e1c50
 939	1117	7318989773814444	Project_1.exe	650c6a3087d2571e
+24	224	7318992988357056	CMakeFiles/Project_1.dir/myList/myListNode.cpp.obj	ef2a1b150ba99386
+19	226	7318992988367047	CMakeFiles/Project_1.dir/myStack/myStack.cpp.obj	5e7681124bd14b30
+29	229	7318992988402108	CMakeFiles/Project_1.dir/myStack/myStackNode.cpp.obj	331c41f882760b1c
+15	706	7318992993187018	CMakeFiles/Project_1.dir/myList/myList.cpp.obj	5af6894e549fb823
+4	707	7318992993197028	CMakeFiles/Project_1.dir/main.cpp.obj	49b911fbeb8d3fca
+10	721	7318992993332204	CMakeFiles/Project_1.dir/functions.cpp.obj	239f747e469e1c50
+721	957	7318992995661166	Project_1.exe	650c6a3087d2571e

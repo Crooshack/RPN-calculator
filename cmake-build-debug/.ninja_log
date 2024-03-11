@@ -1,0 +1,22 @@
+# ninja log v5
+0	37	7318984737792642	build.ninja	cd20cd2a64d827b4
+310	349	1710164088755832739	Project_1	7759ad8822cf048a
+25	190	7318985256359103	CMakeFiles/Project_1.dir/myStack/myStackNode.cpp.obj	331c41f882760b1c
+19	199	7318985256479285	CMakeFiles/Project_1.dir/myList/myListNode.cpp.obj	ef2a1b150ba99386
+14	200	7318985256614528	CMakeFiles/Project_1.dir/myStack/myStack.cpp.obj	5e7681124bd14b30
+1	792	7318985262589131	CMakeFiles/Project_1.dir/main.cpp.obj	49b911fbeb8d3fca
+33	829	7318985262989739	CMakeFiles/Project_1.dir/myList/myList.cpp.obj	5af6894e549fb823
+23	136	7318985992953897	CMakeFiles/Project_1.dir/myList/myListNode.cpp.obj	ef2a1b150ba99386
+14	138	7318985992973913	CMakeFiles/Project_1.dir/myStack/myStack.cpp.obj	5e7681124bd14b30
+28	148	7318985993079032	CMakeFiles/Project_1.dir/myStack/myStackNode.cpp.obj	331c41f882760b1c
+9	680	7318985998408289	CMakeFiles/Project_1.dir/functions.cpp.obj	239f747e469e1c50
+4	692	7318985998513403	CMakeFiles/Project_1.dir/main.cpp.obj	49b911fbeb8d3fca
+19	719	7318985998807788	CMakeFiles/Project_1.dir/myList/myList.cpp.obj	5af6894e549fb823
+720	862	7318986000187306	Project_1.exe	650c6a3087d2571e
+14	127	7318989763948479	CMakeFiles/Project_1.dir/myStack/myStackNode.cpp.obj	331c41f882760b1c
+25	142	7318989764083661	CMakeFiles/Project_1.dir/myStack/myStack.cpp.obj	5e7681124bd14b30
+31	144	7318989764083661	CMakeFiles/Project_1.dir/myList/myListNode.cpp.obj	ef2a1b150ba99386
+9	850	7318989771118666	CMakeFiles/Project_1.dir/main.cpp.obj	49b911fbeb8d3fca
+19	936	7318989771807317	CMakeFiles/Project_1.dir/myList/myList.cpp.obj	5af6894e549fb823
+4	939	7318989771952532	CMakeFiles/Project_1.dir/functions.cpp.obj	239f747e469e1c50
+939	1117	7318989773814444	Project_1.exe	650c6a3087d2571e

@@ -1,0 +1,3 @@
+C:/Users/Bartek/OneDrive - Politechnika Gdańska/Studia/Semestr 4/AISD-poprawka/Project_1/cmake-build-debug/CMakeFiles/Project_1.dir
+C:/Users/Bartek/OneDrive - Politechnika Gdańska/Studia/Semestr 4/AISD-poprawka/Project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bartek/OneDrive - Politechnika Gdańska/Studia/Semestr 4/AISD-poprawka/Project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

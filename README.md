@@ -1,4 +1,4 @@
-# Postfix Notation Converter and Evaluator
+# Postfix Notation Converter and Evaluator (Reverse Polish Notation)
 
 ## Overview
 This program reads a set of arithmetic formulas in infix notation, converts them to postfix notation, and evaluates them step by step while displaying the stack content at each operation.

@@ -359,4 +359,4 @@ N -7
 ```
 
 ## Author of most of the content in this file: 
-- _Robert Ostrowski from Gdańsk Tech_
+- _Robert Ostrowski from Gdańsk University of Technology_

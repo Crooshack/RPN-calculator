@@ -1,3 +1,0 @@
-/Users/bartlomiejkruszynski/Library/CloudStorage/OneDrive-PolitechnikaGdańska/Studia/Semestr 4/AISD - Algorytmy i struktury danych - poprawka/Project_1/cmake-build-debug/CMakeFiles/Project_1.dir
-/Users/bartlomiejkruszynski/Library/CloudStorage/OneDrive-PolitechnikaGdańska/Studia/Semestr 4/AISD - Algorytmy i struktury danych - poprawka/Project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bartlomiejkruszynski/Library/CloudStorage/OneDrive-PolitechnikaGdańska/Studia/Semestr 4/AISD - Algorytmy i struktury danych - poprawka/Project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

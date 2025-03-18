@@ -4,8 +4,9 @@ project(Project_1)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(Project_1 main.cpp
+        constants.h
         functions.cpp
-        myStack/myStack.cpp
-        myStack/myStackNode.cpp
-        myList/myList.cpp
-        myList/myListNode.cpp)
+        myList.cpp
+        myListNode.cpp
+        myStack.cpp
+        myStackNode.cpp)
